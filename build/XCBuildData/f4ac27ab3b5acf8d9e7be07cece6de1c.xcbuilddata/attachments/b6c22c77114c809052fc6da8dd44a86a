@@ -1,0 +1,4 @@
+
+module Eureka.__Swift {
+  exclude header "Eureka-Swift.h"
+}

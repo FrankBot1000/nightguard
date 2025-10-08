@@ -1,0 +1,40 @@
+{
+  "" : {
+    "const-values" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/XLActionController-master.swiftconstvalues",
+    "dependencies" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/XLActionController-master.d",
+    "diagnostics" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/XLActionController-master.dia",
+    "emit-module-dependencies" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/XLActionController-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/XLActionController-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/XLActionController-master.swiftdeps"
+  },
+  "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/Pods/XLActionController/Source/Action.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/Action.o",
+    "llvm-bc" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/Action.bc",
+    "object" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/Action.o"
+  },
+  "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/Pods/XLActionController/Source/ActionCell.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/ActionCell.o",
+    "llvm-bc" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/ActionCell.bc",
+    "object" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/ActionCell.o"
+  },
+  "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/Pods/XLActionController/Source/ActionController.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/ActionController.o",
+    "llvm-bc" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/ActionController.bc",
+    "object" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/ActionController.o"
+  },
+  "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/Pods/XLActionController/Source/ActionControllerSettings.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/ActionControllerSettings.o",
+    "llvm-bc" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/ActionControllerSettings.bc",
+    "object" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/ActionControllerSettings.o"
+  },
+  "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/Pods/XLActionController/Source/ActionData.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/ActionData.o",
+    "llvm-bc" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/ActionData.bc",
+    "object" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/ActionData.o"
+  },
+  "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/Pods/XLActionController/Source/DynamicCollectionViewFlowLayout.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/DynamicCollectionViewFlowLayout.o",
+    "llvm-bc" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/DynamicCollectionViewFlowLayout.bc",
+    "object" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/XLActionController.build/Objects-normal/arm64/DynamicCollectionViewFlowLayout.o"
+  }
+}

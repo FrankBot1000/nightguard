@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Release-iphoneos/Eureka/Eureka.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/Eureka.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Release-iphoneos/Eureka/Eureka.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "Eureka-Swift.h",
+      "external-contents": "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/build/Pods.build/Release-iphoneos/Eureka.build/unextended-interface-header.h",
+    }]
+  }]
+}

@@ -1,0 +1,15 @@
+Target dependency graph (8 targets)
+Target 'Pods-nightguardUITests' in project 'Pods'
+➜ Explicit dependency on target 'Eureka' in project 'Pods'
+➜ Explicit dependency on target 'Pods-nightguard' in project 'Pods'
+➜ Explicit dependency on target 'XLActionController' in project 'Pods'
+Target 'Pods-nightguardTests' in project 'Pods'
+➜ Explicit dependency on target 'Pods-nightguard' in project 'Pods'
+Target 'Pods-nightguard Widget Extension' in project 'Pods' (no dependencies)
+Target 'Pods-nightguard WatchKit App' in project 'Pods' (no dependencies)
+Target 'Pods-nightguard ComplicationExtension' in project 'Pods' (no dependencies)
+Target 'Pods-nightguard' in project 'Pods'
+➜ Explicit dependency on target 'Eureka' in project 'Pods'
+➜ Explicit dependency on target 'XLActionController' in project 'Pods'
+Target 'XLActionController' in project 'Pods' (no dependencies)
+Target 'Eureka' in project 'Pods' (no dependencies)

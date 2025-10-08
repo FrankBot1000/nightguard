@@ -1,0 +1,5 @@
+
+module XLActionController.Swift {
+  header "XLActionController-Swift.h"
+  requires objc
+}

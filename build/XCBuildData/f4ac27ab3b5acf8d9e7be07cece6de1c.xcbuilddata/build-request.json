@@ -1,0 +1,67 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98169a4bed2b58ca1e99a7349ecbeda32b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9899dddac4684f08ced30d74bdcc29c7a0"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981e0bfb46a81db3fc1e09a55e88634282"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9806ba61fd7f6e655337825ca0137f4fa2"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b0a729a82e39ee0d6dfe61e10534581b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98dfafcf4bdad28886eeee49e9d6e59333"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f117c06f69636eb02b55d44cfa1fca3f"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f294428b9551de15d05fd1b574590086"
+    }
+  ],
+  "containerPath" : "/Volumes/Cookie Monster X2/01 - COMPUTER PROJECTS/P04_OPEN_SOURCE_projects/02 NightGuard Diabetes iOS App/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/supergrover/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/supergrover/Library/Developer/Xcode/DerivedData/Pods-bynfmsmqpnoxkrdwxizafshlrfjk/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/supergrover/Library/Developer/Xcode/DerivedData/Pods-bynfmsmqpnoxkrdwxizafshlrfjk/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

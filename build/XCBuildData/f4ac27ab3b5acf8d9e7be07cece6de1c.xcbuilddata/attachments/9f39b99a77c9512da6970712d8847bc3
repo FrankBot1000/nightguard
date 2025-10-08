@@ -1,0 +1,4 @@
+
+module XLActionController.__Swift {
+  exclude header "XLActionController-Swift.h"
+}
